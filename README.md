@@ -81,20 +81,6 @@ I was responsible for the complete mechanical design of the wheelchair using **F
 | Power | TalentCell 24V Li-ion battery | Powers motors and electronics |
 | Structure | Custom Fusion 360 wheelchair design | Ergonomic, lightweight, manoeuvrable frame |
 
-
-
-## Repository Structure
-
-```
-├── images/
-│   ├── assembly_drawing.jpg
-│   ├── wheelchair_3d_render.jpg
-│   ├── wheelchair_2d_sketch.jpg
-│   ├── system_flowchart.jpg
-│   └── (additional CAD screenshots)
-└── README.md
-```
-
 ## Context
 
 Developed for the **Advanced Mechatronics System Design**. The project bridges robotics, biomedical engineering, embedded systems, and mechanical design into a single multidisciplinary assistive technology solution.
