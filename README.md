@@ -2,7 +2,6 @@
 
 A Brain-Computer Interface (BCI) controlled wheelchair designed to enable mobility-impaired individuals to navigate independently using motor imagery — imagined movements of hands, feet, and tongue translated into wheelchair commands via EEG signal classification.
 
-![Wheelchair Assembly Drawing](images/assembly_drawing.jpg)
 
 ## Overview
 
